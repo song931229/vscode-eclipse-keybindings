@@ -512,6 +512,13 @@
                 "key": "f4",
                 "command": "java.action.showTypeHierarchy",
                 "when": "editorLangId == java && editorTextFocus"
+            },
+            {
+                "mac": "ctrl+shift+a",
+                "win": "ctrl+shift+a",
+                "linux": "ctrl+shift+a",
+                "key": "ctrl+shift+a",
+                "command": "editor.action.toggleColumnSelection",
             }
         ]
     },
